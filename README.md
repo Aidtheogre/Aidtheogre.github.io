@@ -1,1 +1,2 @@
-# aidtheogre.github.io
+# aidtheogre.github.io 
+click on ITFINALHOME.html first
